@@ -1,5 +1,0 @@
-MOVE_LEFT Left 
-MOVE_UP Up 
-MOVE_DOWN Down 
-MOVE_RIGHT Right 
-CLOSE Escape
